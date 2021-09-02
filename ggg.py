@@ -1,1 +1,1 @@
-print(gopchie) sdsdsdsdad
+print('denis daun')
